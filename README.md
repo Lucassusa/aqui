@@ -88,7 +88,6 @@ int level_dificil(void)                     //aqui era o main
 }
 int level_medio(void)
 {
-
     int grille[9][9] =
     {
         {9,7,0,1,0,0,0,0,5}, // 7 NESSA LINHA
